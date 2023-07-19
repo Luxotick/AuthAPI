@@ -8,7 +8,7 @@ It's simple actually here is a post example for using api :
 
 ```json
 {
-  "hwid": "an-example-"
+  "hwid": "an-example-randomkey"
 }
 ```
 
