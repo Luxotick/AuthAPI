@@ -8,7 +8,7 @@ It's simple actually here is a post example for using api :
 
 method: Post
 
-url: http://localhost:1453/hwid
+url: http://localhost:1937/hwid
 
 ```json
 {
