@@ -6,6 +6,10 @@ An Authentication api written in javascript with express.
 
 It's simple actually here is a post example for using api :
 
+method: Post
+
+url: http://localhost:1453/hwid
+
 ```json
 {
   "hwid": "an-example-randomkey"
